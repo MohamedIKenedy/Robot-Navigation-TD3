@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /mnt/c/Users/mohamed/Documents/DRL-robot-navigation/catkin_ws/devel_isolated/multi_robot_scenario/setup.sh

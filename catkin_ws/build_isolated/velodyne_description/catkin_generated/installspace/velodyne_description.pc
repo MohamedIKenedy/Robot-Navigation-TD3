@@ -1,0 +1,8 @@
+prefix=/mnt/c/Users/mohamed/Documents/DRL-robot-navigation/catkin_ws/install_isolated
+
+Name: velodyne_description
+Description: Description of velodyne_description
+Version: 1.0.10
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
